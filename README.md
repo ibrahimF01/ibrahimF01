@@ -37,9 +37,8 @@ In addition, I do selenium tests with Python and website load tests with JMeter.
 <h3><b><p align="center">            Where am I?         </p></b></h3>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/108164455/208832911-6d0cbb3f-5cfa-4ef0-9245-16a1e96bf376.gif" alt="connecting" width="90" height="70"/></h3>
 <p align="center"><b>  You should contact me now  </b> </p>
-<p align="center"> <a href="mailto:01ibrahimfigen@gmail.com" target="_blank"><img alt="Email" src="https://user-images.githubusercontent.com/108164455/209260680-66fe9de3-6e02-491f-ad22-6bffe5f4b4c2.png" width="60" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ibrahimfigen/" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/108164455/209263271-fbc4e1e0-e7ca-42df-acd7-214bcccb38d5.png" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="tel:+905312337688" target="_blank"><img alt="phone" src="https://user-images.githubusercontent.com/108164455/209263258-d7e66fdf-e05d-4152-bc2d-d304e09e69e9.jpg" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<p align="center"> <a href="mailto:01ibrahimfigen@gmail.com" target="_blank"><img alt="Email" src="https://user-images.githubusercontent.com/108164455/209260680-66fe9de3-6e02-491f-ad22-6bffe5f4b4c2.png" width="60" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ibrahimfigen/" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/108164455/209263271-fbc4e1e0-e7ca-42df-acd7-214bcccb38d5.png" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 
 
 
