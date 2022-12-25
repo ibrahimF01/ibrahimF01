@@ -15,7 +15,7 @@ In addition, I do selenium tests with Python and website load tests with JMeter.
 <p align="center"> <a href="mailto:01ibrahimfigen@gmail.com" target="_blank"><img alt="Email" src="https://user-images.githubusercontent.com/108164455/209260680-66fe9de3-6e02-491f-ad22-6bffe5f4b4c2.png" width="60" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ibrahimfigen/" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/108164455/209263271-fbc4e1e0-e7ca-42df-acd7-214bcccb38d5.png" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3><p align="center"><img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="295" height="3"/> < My Languages and Tools > <img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="295" height="3"/></p></h3>
+<h3><p align="center"><img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="305" height="3"/> < My Languages and Tools > <img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="305" height="3"/></p></h3>
 
 
 
