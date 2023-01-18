@@ -158,7 +158,22 @@ In addition, I do selenium tests with Python and website load tests with JMeter.
 ![](https://github-readme-stats.vercel.app/api?username=ibrahimF01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimF01&theme=dracula&hide_border=false) <br/>
 
- 
+ ### :octocat: Profile Views
+[![PRs Welcome](https://komarev.com/ghpvc/?username=ibrahimF01&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ibrahimF01)
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
+<div align="center">
+<p align="center">
+<a href="https://github.com/ibrahimF01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimF01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibrahimF01&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=ibrahimF01&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+ </a>
+</p>
+</div>
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ibrahimF01&theme=react-dark&hide_border=true" />
+    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  </a>
 
 ## 🏆 GitHub Trophies
 
@@ -166,4 +181,15 @@ In addition, I do selenium tests with Python and website load tests with JMeter.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimF01&layout=compact" >
 
-
+## Github Metrics
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimF01&theme=github_dark" />
+</p>
+<p align="center">
+  <img width="625em" src="https://metrics.lecoq.io/ibrahimF01" />
+</p>
+<br><br>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ibrahimF01}/count.svg" /></p> 
+</div>
