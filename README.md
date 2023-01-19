@@ -153,14 +153,16 @@ In addition, I do selenium tests with Python and website load tests with JMeter.
 </table>
 <p align="center"><img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="1100" height="none"/></p>
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ibrahimF01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimF01&theme=dracula&hide_border=false) <br/>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ibrahimF01&theme=radical&no-frame=false&no-bg=true&margin-w=70)
 
  ### :octocat: Profile Views
 [![PRs Welcome](https://komarev.com/ghpvc/?username=ibrahimF01&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ibrahimF01)
-## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
+<br><br>
+# 📊 Github Stats
 <div align="center">
 <p align="center">
 <a href="https://github.com/ibrahimF01">
@@ -172,14 +174,10 @@ In addition, I do selenium tests with Python and website load tests with JMeter.
 </div>
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ibrahimF01&theme=react-dark&hide_border=true" />
-    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
   </a>
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ibrahimF01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimF01&layout=compact" >
 
 ## Github Metrics
 <p align="center">
