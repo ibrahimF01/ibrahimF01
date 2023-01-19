@@ -176,9 +176,11 @@ In addition, I do selenium tests with Python and website load tests with JMeter.
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ibrahimF01&theme=react-dark&hide_border=true" />
   </a>
 
-
-
-
+<img src="https://imgur.com/mlbGPyp.gif">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</div>
+<img src="https://imgur.com/mlbGPyp.gif">
 ## Github Metrics
 <p align="center">
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimF01&theme=github_dark" />
